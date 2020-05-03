@@ -24,7 +24,7 @@ namespace ShowTeamsPresence
     public partial class Form1 : Form
     {
         // Application Registration
-        private string _clientID = "21bec769-67c2-4c19-bb2b-21fd7252e643"; // TeamsAppforCollab 
+        private string _clientID = "<CLIENT-ID>"; // TeamsAppforCollab 
 
         private Beta.GraphServiceClient _graphClient = null;
 
