@@ -3,20 +3,10 @@ using Beta = BetaLib.Microsoft.Graph;
 
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.Graph.Auth;
 using Microsoft.Identity.Client;
-//using Microsoft.Graph;
-using Microsoft.Graph.Auth;
-using Microsoft.Identity.Client;
-using System.Collections.Generic;
-using System.Windows;
 
 
 namespace ShowTeamsPresence
